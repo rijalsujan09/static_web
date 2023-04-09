@@ -1,0 +1,9 @@
+.head-content{
+    border: 2px solid black;
+    margin: auto;
+    width: 90%;
+}
+.head-content h1{
+    color: green;
+    font-weight: bold;
+}
